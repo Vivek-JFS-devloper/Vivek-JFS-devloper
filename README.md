@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Ramesh Paswan**
-### Full Stack Developer | Java & Spring Boot Enthusiast
+### Full Stack Developer | Java & Spring Boot & Microservice
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Ramesh%20Paswan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-paswan-223742227/)
 
@@ -17,16 +17,21 @@ I’m a dedicated **Full Stack Developer** specializing in **Java, Spring Boot, 
 
 ## 💻 Skills & Technologies
 
-### 🧠 Languages
+### 🧠 Languages & Frameworks
+
+#### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)
 
-  ### ⚙️ Backend / Frameworks
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat-square&logo=springboot)
-  ![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-05122A?style=flat-square&logo=spring)
-  ![JPA/Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat-square&logo=hibernate)
-  ![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat-square)
-  ![React.js](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)
+#### Backend / Frameworks
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat-square&logo=springboot)
+![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-05122A?style=flat-square&logo=spring)
+![JPA/Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat-square&logo=hibernate)
+![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat-square)
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)
 
 
 ### 🛠 Tools & Platforms
@@ -42,9 +47,9 @@ I’m a dedicated **Full Stack Developer** specializing in **Java, Spring Boot, 
 
 ## 📈 GitHub Stats
 
-![Ramesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Ramesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek-JFS-devloper&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-JFS-devloper&layout=compact&theme=dark)
 
 > *Tip: Replace `Vivek-JFS-devloper` with your actual GitHub username.* :contentReference[oaicite:1]{index=1}
 
